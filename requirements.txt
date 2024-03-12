@@ -1,0 +1,5 @@
+# pip3 install -r requirements.txt
+sentence-transformers
+cassandra-driver 
+matplotlib 
+sentence-transformers
